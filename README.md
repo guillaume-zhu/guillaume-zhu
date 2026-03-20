@@ -1,10 +1,12 @@
 <div align="center">
 
+<!--
 ![banner](./banner.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&size=18&pause=1200&color=57528b&center=true&vCenter=true&width=560&lines=Creative+Developer+%C3%97+Art+Director;Where+design+intent+meets+front-end+craft;Building+immersive+%26+interactive+experiences)](https://git.io/typing-svg)
 
 <br/>
+-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-57528b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-zhu/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-57528b?style=flat-square&logo=github&logoColor=white)](https://guillaume-zhu.github.io)
